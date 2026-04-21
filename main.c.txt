@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("NQ Scalping Bot - Connected to Tradovate\n");
+    printf("Ready to trade Nasdaq futures!\n");
+    return 0;
+}
